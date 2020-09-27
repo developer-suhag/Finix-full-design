@@ -821,7 +821,7 @@ ul.our-primary-menu li:hover ul {
 
 .services-text .finix-text h1 {
     font-weight: 500;
-    color: #111111;
+    color: #111;
 }
 
 /* service tab */
@@ -830,6 +830,14 @@ ul.our-primary-menu li:hover ul {
     padding-bottom: 20px;
 
 }
+
+.services-tab-section .finix-text h1{
+    color: #111 !important;
+}
+.services-tab-section .finix-text p{
+    color: #606060;
+} 
+
 .service-tab-items li {
     flex: 1 1 auto;
     margin-bottom: 20px;
@@ -1472,15 +1480,7 @@ color: #fff;
 .testimonial-text p{
     color: #fff !important;
 }
-.services-text .finix-text h1{
-    color: #fff !important;
-}
-.services-text .finix-text h6{
-    color: #fff !important;
-}
-.services-text .finix-text p{
-    color: #fff !important;
-}
+
 
 
 
