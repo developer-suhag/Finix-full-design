@@ -830,13 +830,13 @@ ul.our-primary-menu li:hover ul {
     padding-bottom: 20px;
 
 }
-
 .services-tab-section .finix-text h1{
     color: #111 !important;
 }
 .services-tab-section .finix-text p{
     color: #606060;
 } 
+
 
 .service-tab-items li {
     flex: 1 1 auto;
