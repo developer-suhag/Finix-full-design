@@ -821,8 +821,17 @@ ul.our-primary-menu li:hover ul {
 
 .services-text .finix-text h1 {
     font-weight: 500;
-    color: #111;
+    color: #fff;
 }
+
+
+.services-text .finix-text h6{
+    color: #fff !important;
+}
+.services-text .finix-text p{
+    color: #fff !important;
+} 
+
 
 /* service tab */
 .service-tab-items {
